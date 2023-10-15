@@ -1,0 +1,55 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 20px 20px;
+    align-items: center;
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-vector/watercolor-autumn-background-with-leaves_23-2148247641.jpg?w=1380&t=st=1697272164~exp=1697272764~hmac=b1235b5157357f8f25d19f18da4dc7af7ad6b6353b018b1e3dca131e9ce0f6f6");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%
+    
+  }
+ 
+  .desc{
+     font-size: 18px;
+  }
+  button, .button{
+    font-size: 18px;
+    margin: 25px 2px;
+    padding: 9px 22px;
+    border-style: solid;
+    border-radius: 30px;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+  }
+
+  .name, .description{
+    font-size: 18px;
+    margin: 8px 2px;
+    padding: 8px 20px;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: black;
+  }
+
+  .button{
+    padding: 8px 86px;
+    font-size: 20px;
+  }
+
+div{
+    font-size: 24px;
+
+  }
+
+  .form{
+    border-style: solid;
+    margin: 20px 250px;
+    padding: 10px 10px 30px 10px;
+    border-radius: 30px;
+  }
